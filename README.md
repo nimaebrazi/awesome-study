@@ -1,5 +1,11 @@
 # Awesome Study
 
+### Sofware Architecture
+
+- [Software Architecture Books](https://github.com/mhadidg/software-architecture-books)
+
+  A comprehensive list of books on Software Architecture.
+
 ### General
 - [University of Helsinki's courses](https://www.mooc.fi/en/)
   
