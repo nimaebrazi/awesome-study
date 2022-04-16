@@ -19,6 +19,12 @@
   
   This course is an introductory course to Docker and docker-compose
 
+### Linux
+
+- [The Cyber Plumbers Handbook](https://github.com/opsdisk/the_cyber_plumbers_handbook)
+
+  This book is packed with practical and real world examples of SSH tunneling and port redirection in multiple realistic scenarios. It walks you through the basics of SSH tunneling (both local and remote port forwards), SOCKS proxies, port redirection, and how to utilize them with other tools like proxychains, nmap, Metasploit, and web browsers.
+
 ### Programming Languages
 
 - [Haskell](https://haskell.mooc.fi)
