@@ -33,6 +33,10 @@
 - [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin)
   
   A curated list of amazingly awesome open source sysadmin resources.
+  
+- [Ansible for DevOps](https://github.com/geerlingguy/ansible-for-devops)
+
+  This repository contains Ansible examples developed to support different sections of Ansible for DevOps, a book on Ansible by Jeff Geerling.
 
 ### Linux
 
