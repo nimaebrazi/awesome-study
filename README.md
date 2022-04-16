@@ -1,8 +1,10 @@
 # Awesome Study
 
 ### General
-
-- [Hacker Laws](https://github.com/dwmkerr/hacker-laws): 
+- [University of Helsinki's courses](https://www.mooc.fi/en/)
+  
+  The courses are offered by University of Helsinki's Department of Computer Science. No prior knowledge is required — beginners can start to learn programming basics from the Programming with Java course, or start to get familiar with artificial intelligence from the course Elements of Ai.
+- [Hacker Laws](https://github.com/dwmkerr/hacker-laws)
   
   There are lots of laws which people discuss when talking about development. This repository is a reference and overview of some of the most common ones
 
