@@ -15,6 +15,8 @@
 
 ### DevOps
 
+- [DevOps Roadmap](https://github.com/ahmadalibagheri/devops-roadmap)
+
 - [DevOps Exercises](https://github.com/bregman-arie/devops-exercises)
 
   This repo contains questions and exercises on various technical topics, sometimes related to DevOps and SRE.
