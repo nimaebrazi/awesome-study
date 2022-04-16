@@ -15,6 +15,9 @@
 
 ### DevOps
 
+- [DevOps Exercises](https://github.com/bregman-arie/devops-exercises)
+
+  This repo contains questions and exercises on various technical topics, sometimes related to DevOps and SRE.
 - [DevOps with Docker](https://devopswithdocker.com)
   
   This course is an introductory course to Docker and docker-compose
