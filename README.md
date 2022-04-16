@@ -13,6 +13,12 @@
 
    Forgetting or don't understand something in SQL? Animate away your SQL questions by choosing a keyword and pressing Visualize!
 
+### DevOps
+
+- [DevOps with Docker](https://devopswithdocker.com)
+  
+  This course is an introductory course to Docker and docker-compose
+
 ### Programming Languages
 
 - [Haskell](https://haskell.mooc.fi)
