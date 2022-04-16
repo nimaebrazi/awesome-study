@@ -16,3 +16,9 @@
 - [Haskell](https://haskell.mooc.fi)
   
   This course is aimed at beginners who wish to learn functional programming, but also people who have experience with functional programming and want to learn Haskell in particular. The course assumes no previous knowledge, but knowing at least one programming language beforehand will make the course easier.
+
+### Security
+
+- [Cyber Security Base](https://cybersecuritybase.mooc.fi)
+
+  Cyber Security Base is a free course series by University of Helsinki and MOOC.fi in collaboration with F-Secure that focuses on building core knowledge and abilities related to the work of a cyber security professional.
